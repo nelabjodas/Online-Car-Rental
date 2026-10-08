@@ -39,9 +39,6 @@ CREATE TABLE `admin` (
 -- Dumping data for table `admin`
 --
 
-INSERT INTO `admin` (`id`, `UserName`, `Password`, `updationDate`) VALUES
-(1, 'admin', '$2y$10$yzIEjPr4mG/nlievzGuPGeJh7oNo/oMiKkAJOCzFJTcuj9RCTDoXC', '2020-03-31 07:55:07');
-
 -- --------------------------------------------------------
 
 --
@@ -115,9 +112,6 @@ CREATE TABLE `tblcontactusinfo` (
 --
 -- Dumping data for table `tblcontactusinfo`
 --
-
-INSERT INTO `tblcontactusinfo` (`id`, `Address`, `EmailId`, `ContactNo`) VALUES
-(1, 'New Asgard', 'john@gmail.com', '7525724672');
 
 -- --------------------------------------------------------
 
